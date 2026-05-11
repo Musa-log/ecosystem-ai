@@ -1,0 +1,17 @@
+{
+  "name": "ecosystem-ai",
+  "version": "1.0.0",
+  "description": "AI Empleado Privado - Uso interno del holding",
+  "main": "index.js",
+  "scripts": {
+    "dev": "echo '🚀 Iniciando Ecosystem AI...'",
+    "ollama:status": "ollama list",
+    "setup": "npm install"
+  },
+  "keywords": ["ai", "ollama", "openclaude", "rag", "supabase"],
+  "author": "Holding Internal",
+  "private": true,
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.0"
+  }
+}

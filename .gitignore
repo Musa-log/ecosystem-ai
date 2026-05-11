@@ -1,0 +1,14 @@
+# Entorno virtual
+venv/
+__pycache__/
+*.pyc
+
+# Node modules
+node_modules/
+
+# Archivos temporales
+.DS_Store
+*.log
+
+# Variables de entorno
+.env.local
